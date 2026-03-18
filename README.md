@@ -131,6 +131,8 @@ pyspark/accident_analysis.py
 
 <img width="1920" height="955" alt="Image" src="https://github.com/user-attachments/assets/2ac43e96-87f5-49ba-a5f6-4a844091feb1" />
 
+### Spark UI
+<img width="1920" height="955" alt="Image" src="https://github.com/user-attachments/assets/386c26b9-87e2-4332-8ce7-9891d89292cc" />
 
 ---
 
