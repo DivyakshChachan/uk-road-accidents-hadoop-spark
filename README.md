@@ -1,4 +1,3 @@
-# uk-road-accidents-hadoop-spark
 # 🚦 Hadoop Cluster + PySpark Accident Severity Analysis
 
 ## 📌 Project Overview
