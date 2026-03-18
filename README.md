@@ -125,11 +125,12 @@ pyspark/accident_analysis.py
 
 ### YARN Resource Manager UI
 
-(Add image here)
+<img width="1920" height="955" alt="Image" src="https://github.com/user-attachments/assets/7b3eab45-302a-4669-9cd4-98c7bd5a62c2" />
 
-### HDFS File Storage
+### Hadoop Cluster and Nodes
 
-(Add image here)
+<img width="1920" height="955" alt="Image" src="https://github.com/user-attachments/assets/2ac43e96-87f5-49ba-a5f6-4a844091feb1" />
+
 
 ---
 
@@ -166,7 +167,7 @@ docs/           → Setup documentation
 ---
 
 ## 👨‍💻 Author
-
+Divyaksh Chachan
 Mohit Agrawal
 B.Tech AI | SVNIT Surat
 
